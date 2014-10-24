@@ -7,7 +7,7 @@ the [`elasticsearch`](https://github.com/elasticsearch/elasticsearch-ruby) libra
 It aims to simplify integration of [Ruby on Rails](http://rubyonrails.org) 2.3 models (`ActiveRecord`)
 with the [Elasticsearch](http://www.elasticsearch.org) search.
 
-([`elasticsearch-model`](https://github.com/elasticsearch/elasticsearch-model) requires Ruby on Rails >= 3.0)
+(If your app is in Ruby on Rails 2.3 you can't use [`elasticsearch-model`](https://github.com/elasticsearch/elasticsearch-model) because it requires Ruby on Rails >= 3.0)
 
 The library is compatible with Ruby 1.9.3.
 
