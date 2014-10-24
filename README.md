@@ -9,7 +9,7 @@ with the [Elasticsearch](http://www.elasticsearch.org) search.
 
 ([`elasticsearch-model`](https://github.com/elasticsearch/elasticsearch-model) requires Ruby on Rails >= 3.0)
 
-The library is compatible with Ruby 1.9.3 and higher.
+The library is compatible with Ruby 1.9.3.
 
 ## Installation
 
