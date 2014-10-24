@@ -1,4 +1,4 @@
-# Elasticsearch::Rails2
+# Elasticsearch::Rails2 [![Build Status](https://travis-ci.org/edgar/elasticsearch-rails2.png?branch=master)](https://travis-ci.org/edgar/elasticsearch-rails2)
 
 The `elasticsearch-rails2` library is based on the
 [`elasticsearch-model`](https://github.com/elasticsearch/elasticsearch-model) and builds on top of the
