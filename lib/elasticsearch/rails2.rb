@@ -1,6 +1,7 @@
 require 'elasticsearch'
 
 require 'hashie'
+require 'active_support'
 require 'active_record'
 
 require "elasticsearch/rails2/version"
